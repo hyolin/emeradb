@@ -1,4 +1,4 @@
-emeralddb
+emeradb
 =========
 
 creating a document database
